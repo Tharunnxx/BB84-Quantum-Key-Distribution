@@ -1,0 +1,17 @@
+# Existing Lovable rules
+node_modules/
+dist/
+.output/
+.vite/
+.env
+.env.*
+!.env.example
+.DS_Store
+
+# Python experiment
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+sequence_experiment/results/*.csv
+sequence_experiment/results/*.json
